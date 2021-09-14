@@ -1,5 +1,5 @@
 # -summer_olympics_data_analysis_Project-
-This project includes all the codes/CSV files used in the AI/ML Skill India internship Assignment on Summer Olympics Data Analysis.
+This project includes all the codes/CSV files used in the AI/ML Skill India internship( ELITE TECHNO GROUPS) Assignment on Summer Olympics Data Analysis.
 
 files-
 
